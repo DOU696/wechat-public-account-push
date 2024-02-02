@@ -36,13 +36,13 @@ const USER_CONFIG = {
           type: '生日', name: '李四', year: '1996', date:'09-31',
         },
         {
-          type: '节日', name: '相恋纪念日', year: '2023', date:'06-18',
+          type: '节日', name: '相恋纪念日', year: '2023', date:'06-20',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
-        { keyword: 'love_day', date: '2023-06-18' },
+        { keyword: 'love_day', date: '2023-06-20' },
         // 结婚纪念日
         { keyword: 'marry_day', date: '2022-09-09' },
       ],
@@ -66,13 +66,13 @@ const USER_CONFIG = {
           type: '生日', name: '李四', year: '1996', date: '09-31',
         },
         {
-          type: '节日', name: '相恋纪念日', year: '2023', date: '06-18',
+          type: '节日', name: '相恋纪念日', year: '2023', date: '06-20',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
-        { keyword: 'love_day', date: '2023-06-18' },
+        { keyword: 'love_day', date: '2023-06-20' },
         // 结婚纪念日
         { keyword: 'marry_day', date: '2022-09-09' },
       ],
